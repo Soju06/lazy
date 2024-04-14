@@ -1,0 +1,6 @@
+.vs
+.vscode
+*.vcxproj.filters
+__vm
+
+config.hpp
